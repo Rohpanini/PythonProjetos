@@ -1,4 +1,4 @@
-# Crie um programa que leia um valor em metro e mostre na tela os centimetros e os milimetros desse valor
+# Crie um programa que leia um valor em metro e mostre na tela os centímetros e os milímetros desse valor
 medida = float(input('Digite o valor em métros: '))
 cm = medida*100
 mm = medida*1000
